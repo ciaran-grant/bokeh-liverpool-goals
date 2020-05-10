@@ -1,6 +1,6 @@
 # bokeh-liverpool-goals
 
-This is a bokeh dashboard using @Last Row's tracking data for several Liverpool goals.
+This is a bokeh dashboard using [@Last Row](https://twitter.com/lastrowview)'s tracking data for several Liverpool goals.
 The data can be found on their GitHub page here: 
 [https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row]
 
@@ -26,17 +26,17 @@ Here's my binder attempt if interested:
 [https://github.com/ciaran-grant/bokeh-binder]
 
 
- ## Preview:
+## Preview:
 
-Tab1: Event and Tracking Overview
+### Tab1: Event and Tracking Overview
 
 <img src="goals-overview.PNG" align="center">
 
-Tab2: Calculating Pitch Value
+### Tab2: Calculating Pitch Value
 
 <img src="pitch-value.PNG" align="center">
 
-Tab3: Updating Pitch Value from Player Displacement
+### Tab3: Updating Pitch Value from Player Displacement
 
 <img src="player-displacement.PNG" align="center">
 
