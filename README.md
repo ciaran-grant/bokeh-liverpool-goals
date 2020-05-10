@@ -5,7 +5,7 @@ The data can be found on their GitHub page here:
 [https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row]
 
 The Friends of Tracking tutorials and videos helped set up the majority of the functions and background.
-Especially Laurie's (@EightyFivePoint)[https://twitter.com/EightyFivePoint] Metrica data lessons: 
+Especially Laurie's [@EightyFivePoint](https://twitter.com/EightyFivePoint) Metrica data lessons: 
 [https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking]
 
 Initail plots for the pitch came in handy from [@danzn1](https://twitter.com/danzn1) here: 
