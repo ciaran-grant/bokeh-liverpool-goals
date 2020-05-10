@@ -37,6 +37,8 @@ Here's my binder attempt if interested:
 <img src="pitch-value.PNG" align="center">
 
 ### Tab3: Updating Pitch Value from Player Displacement
+*** Disclaimer - this will take a few seconds 'thinking' to change between matches and events ***
+Please do read the disclaimer within the app with regards to how the recalculate function works. Didn't want to make a disclaimer to read another disclaimer...
 
 <img src="player-displacement.PNG" align="center">
 
