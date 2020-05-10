@@ -24,3 +24,22 @@ Until then, downloading bokeh-app and running from your own command line is nece
 
 Here's my binder attempt if interested:
 [https://github.com/ciaran-grant/bokeh-binder]
+
+
+ ## Preview:
+
+Tab1: Event and Tracking Overview
+
+<img src="goals-overview.PNG" align="center">
+
+Tab2: Calculating Pitch Value
+
+<img src="pitch-value.PNG" align="center">
+
+Tab3: Updating Pitch Value from Player Displacement
+
+<img src="player-displacement.PNG" align="center">
+
+
+
+
