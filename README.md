@@ -1,14 +1,14 @@
 # bokeh-liverpool-goals
 
-This is a bokeh dashboard using [@Last Row](https://twitter.com/lastrowview)'s tracking data for several Liverpool goals.
+This is a bokeh dashboard using [@lastrowview](https://twitter.com/lastrowview)'s tracking data for several Liverpool goals.
 The data can be found on their GitHub page here: 
 [https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row]
 
 The Friends of Tracking tutorials and videos helped set up the majority of the functions and background.
-Especially Laurie's Metrica data lessons: 
+Especially Laurie's (@EightyFivePoint)[https://twitter.com/EightyFivePoint] Metrica data lessons: 
 [https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking]
 
-Initail plots for the pitch came in handy from danzn here: 
+Initail plots for the pitch came in handy from [@danzn1](https://twitter.com/danzn1) here: 
 [https://github.com/znstrider/PyFootballPitch]
 
 The dashboard makes use of bokeh's server. To run the app, download the `bokeh-app` folder to your cd and using command line enter:
