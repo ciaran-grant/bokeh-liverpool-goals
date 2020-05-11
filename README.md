@@ -1,6 +1,6 @@
 # bokeh-liverpool-goals
 
-** Update - links for separate tabs **
+### ** Update - links for separate tabs **
 
 https://bokeh-liverpool-tab1.herokuapp.com/ - all games available.
 
@@ -10,7 +10,7 @@ https://bokeh-liverpool-tab3.herokuapp.com/ - may need to reload this a few time
 
 If wanting a quicker app with all goals, would still recommend running from own bokeh server as below.
 
-*******
+### *******
 
 This is a bokeh dashboard using [@lastrowview](https://twitter.com/lastrowview)'s tracking data for several Liverpool goals.
 The data can be found on their GitHub page here: 
