@@ -1,5 +1,15 @@
 # bokeh-liverpool-goals
 
+** Update - links for separate tabs **
+https://bokeh-liverpool-tab1.herokuapp.com/ - all games available.
+
+https://bokeh-liverpool-tab2.herokuapp.com/ - only two games loaded in here.
+
+https://bokeh-liverpool-tab3.herokuapp.com/ - may need to reload this a few times as gets close to 30 second timeout with a single game.
+
+If wanting a quicker app with all goals, would still recommend running from own bokeh server as below.
+**
+
 This is a bokeh dashboard using [@lastrowview](https://twitter.com/lastrowview)'s tracking data for several Liverpool goals.
 The data can be found on their GitHub page here: 
 [https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row]
@@ -19,8 +29,14 @@ The dashboard makes use of bokeh's server. To run the app, download the `bokeh-a
 2. --show - this opens the app in a browser
 3. bokeh-app - this is the name of the folder which contains main.py (where the magic happens)
 
-Have attempted to host this app on its own URL via binder and heroku, however just seem to get a white screen. If anyone has any advice please let me know!
-Until then, downloading bokeh-app and running from your own command line is necessary to get the full benefits of the bokeh server.
+Have attempted to host this app on its own URL via binder and heroku, however just seem to get a white screen. If anyone has any advice please let me know! -- See update, added each tab to individual heroku links
+
+heroku tabs are here:
+https://github.com/ciaran-grant/bokeh-liverpool-tab1
+
+https://github.com/ciaran-grant/bokeh-liverpool-tab2
+
+https://github.com/ciaran-grant/bokeh-liverpool-tab3
 
 Here's my binder attempt if interested:
 [https://github.com/ciaran-grant/bokeh-binder]
