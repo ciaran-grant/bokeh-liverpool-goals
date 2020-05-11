@@ -20,8 +20,11 @@ The Friends of Tracking tutorials and videos helped set up the majority of the f
 Especially Laurie's [@EightyFivePoint](https://twitter.com/EightyFivePoint) Metrica data lessons: 
 [https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking]
 
-Initail plots for the pitch came in handy from [@danzn1](https://twitter.com/danzn1) here: 
+Initial plots for the pitch came in handy from [@danzn1](https://twitter.com/danzn1) here: 
 [https://github.com/znstrider/PyFootballPitch]
+
+#### Appendix: 
+https://thelastmananalytics.home.blog/2020/05/11/22-friends-of-tracking-challenge-appendix/
 
 The dashboard makes use of bokeh's server. To run the app, download the `bokeh-app` folder to your cd and using command line enter:
   ```
