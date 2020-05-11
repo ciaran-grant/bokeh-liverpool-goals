@@ -9,7 +9,8 @@ https://bokeh-liverpool-tab2.herokuapp.com/ - only two games loaded in here.
 https://bokeh-liverpool-tab3.herokuapp.com/ - may need to reload this a few times as gets close to 30 second timeout with a single game.
 
 If wanting a quicker app with all goals, would still recommend running from own bokeh server as below.
-**
+
+*******
 
 This is a bokeh dashboard using [@lastrowview](https://twitter.com/lastrowview)'s tracking data for several Liverpool goals.
 The data can be found on their GitHub page here: 
